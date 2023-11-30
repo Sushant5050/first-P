@@ -1,0 +1,7 @@
+C:\Users\Sushant Hulawal\OneDrive\Desktop\first P\first P\bin\Debug\first P.exe.config
+C:\Users\Sushant Hulawal\OneDrive\Desktop\first P\first P\bin\Debug\first P.exe
+C:\Users\Sushant Hulawal\OneDrive\Desktop\first P\first P\bin\Debug\first P.pdb
+C:\Users\Sushant Hulawal\OneDrive\Desktop\first P\first P\obj\Debug\first P.csproj.AssemblyReference.cache
+C:\Users\Sushant Hulawal\OneDrive\Desktop\first P\first P\obj\Debug\first P.csproj.CoreCompileInputs.cache
+C:\Users\Sushant Hulawal\OneDrive\Desktop\first P\first P\obj\Debug\first P.exe
+C:\Users\Sushant Hulawal\OneDrive\Desktop\first P\first P\obj\Debug\first P.pdb
